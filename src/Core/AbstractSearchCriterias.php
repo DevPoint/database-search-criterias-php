@@ -2,7 +2,6 @@
 
 namespace Devpoint\Database\SearchCriterias\Core;
 
-use Illuminate\Database\Eloquent\Model;
 use Devpoint\Database\SearchCriterias\Contracts\SearchCriterias as SearchCriteriasContract;
 use Devpoint\Database\SearchCriterias\Contracts\SearchFilter;
 use Devpoint\Database\SearchCriterias\Contracts\SearchSort;
