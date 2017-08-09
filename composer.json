@@ -18,7 +18,7 @@
     },
 	"autoload": {
         "psr-4": {
-            "Devpoint\\Database\\SearchCriterias": "src/"
+            "Devpoint\\Database\\SearchCriterias\\": "src/"
         }
     }
 }
