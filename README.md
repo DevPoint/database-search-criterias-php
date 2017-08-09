@@ -1,4 +1,4 @@
-Search Client PHP
-===================
+Database Search Criterias PHP
+==============================
 
 to be written
